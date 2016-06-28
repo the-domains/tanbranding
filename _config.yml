@@ -1,0 +1,14 @@
+layout_spectrum: 0.037564285565167665
+typography_spectrum: 0.12476783921010792
+color:
+  brandStrength: 0.35847790096886456
+  lightness: 0.3337336084805429
+  saturation: 0.15994106349535286
+  rhythmicContrast: 0.5822658240795135
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: tanbranding
